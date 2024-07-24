@@ -8,6 +8,6 @@ This project is html website for furniture shop.It contain Home,about,service an
 Languages used: HTML, CSS, JavaScript
 
 ## File Structure
-index.html: The main HTML file for the webpage.
+```index.html```: The main HTML file for the webpage.
 style.css: Directory containing CSS stylesheets.
 scripts.js: Directory containing JavaScript files.
