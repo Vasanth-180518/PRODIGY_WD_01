@@ -11,3 +11,7 @@ Languages used: HTML, CSS, JavaScript
 ```index.html```: The main HTML file for the webpage.<br/>
 ```style.css```: Directory containing CSS stylesheets.<br/>
 ```scripts.js```: Directory containing JavaScript files.
+
+
+Uploading 2024-07-22 13-02-14 (1).mp4…
+
