@@ -1,4 +1,4 @@
-## This project was given by https://prodigyinfotech.dev/ as Task 1.
+## This project was given by [Prodigy InfoTech](https://prodigyinfotech.dev/) as Task 1.
 
 See 
 
