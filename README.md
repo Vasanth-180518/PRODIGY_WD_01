@@ -2,8 +2,8 @@
 
 See [demo](http://127.0.0.1:5500/index.html)
 
-Description
-This project is an HTML webpage for a restaurant called Caffeine - House of Foods. It includes a section for the landing and a section for the menu. Landing page conation a carousel of images showing the food items and a button to order online. The menu section contains a list of food items with their prices.
+##Description
+This project is html website for furniture shop.It contain Home,about,service and contact navigation menu.You can click any one of the navigation menu and it show the result eith related informations.you can able to scroll the page to see the content.
 
 Languages used: HTML, CSS, JavaScript
 
