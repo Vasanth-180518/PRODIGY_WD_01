@@ -3,11 +3,11 @@
 See [demo](http://127.0.0.1:5500/index.html)
 
 ## Description
-This project is html website for furniture shop.It contain Home,about,service and contact navigation menu.You can click any one of the navigation menu and it show the result eith related informations.you can able to scroll the page to see the content.
+This project is html website for furniture shop.It contain Home,about,service and contact navigation menu.You can click any one of the navigation menu and it show the result with related informations.you can able to scroll the page to see the content.
 
 Languages used: HTML, CSS, JavaScript
 
-File Structure
+## File Structure
 index.html: The main HTML file for the webpage.
-styles/: Directory containing CSS stylesheets.
-scripts/: Directory containing JavaScript files.
+styles.css: Directory containing CSS stylesheets.
+scripts.js: Directory containing JavaScript files.
