@@ -1,4 +1,4 @@
-## This project was given by [Prodigy InfoTech](https://prodigyinfotech.dev/) as Task 1.
+## This project was given by [Prodigy InfoTech](https://prodigyinfotech.dev/) as a web development Task 1.
 
 See [demo](http://127.0.0.1:5500/index.html)
 
