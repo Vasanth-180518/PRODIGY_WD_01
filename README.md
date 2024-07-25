@@ -14,5 +14,3 @@ Languages used: HTML, CSS, JavaScript
 
 
 
-(video)[Uploading 2024-07-22 13-02-14 (1).mp4…]
-
